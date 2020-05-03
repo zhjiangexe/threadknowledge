@@ -1,4 +1,4 @@
-package com.jiang.threadcoreknowledge;
+package com.jiang.threadcoreknowledge.deadlock;
 
 /**
  *
