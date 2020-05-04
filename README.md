@@ -13,3 +13,9 @@
 - Lock, ReadLock, WriteLock, ReentrantLock
 - AtomicInteger, AtomicArray, AtomicFiledUpdater, LongAdder, LongAccumulator
 - cas, compareAndSwap
+
+- Old features: Vector, Collections.synchronizedList, Hashtable
+- ConcurrentHashMap
+- CopyOnWriteArrayList
+- flowcontrol: CountDownLatch, Semaphore, Condition, CyclicBarrier
+- BlockingQueue
